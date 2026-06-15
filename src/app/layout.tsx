@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/og-image.png",
+        url: "/images/og-image.png",
         width: 1200,
         height: 630,
         alt: "Vivek Kumar Portfolio",
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Vivek Kumar | Frontend Developer",
     description: siteConfig.description,
-    images: ["/og-image.png"],
+    images: ["/images/og-image.png"],
   },
 
   keywords: [
