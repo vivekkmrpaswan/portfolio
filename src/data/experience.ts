@@ -12,9 +12,10 @@ export const experience: ExperienceItem[] = [
       "Collaborated with cross-functional teams to deliver features based on business requirements.",
     ],
     achievements: [
-      "Delivered production-ready features for real-world users and business workflows.",
-      "Contributed to a scalable frontend architecture through reusable component development.",
-      "Worked effectively in a fast-paced startup environment while maintaining code quality.",
+      "Delivered and maintained production features used in live business workflows across multiple client projects.",
+      "Reduced development time by creating reusable UI components and shared frontend patterns.",
+      "Collaborated with designers and backend developers to deliver features with consistent user experience.",
+      "Contributed to scalable React and Next.js applications while maintaining code quality and responsiveness.",
     ],
   },
   {
@@ -28,9 +29,10 @@ export const experience: ExperienceItem[] = [
       "Participated in code reviews, debugging, and collaborative problem-solving activities.",
     ],
     achievements: [
-      "Successfully completed multiple solo and collaborative projects using the MERN stack.",
-      "Strengthened fundamentals of frontend and backend development through hands-on project work.",
-      "Gained practical experience with Git, REST APIs, and modern JavaScript development.",
+      "Built multiple full-stack MERN applications individually and in team environments.",
+      "Implemented REST API integrations, authentication flows, and responsive user interfaces.",
+      "Applied Git-based workflows, code reviews, and collaborative development practices.",
+      "Strengthened problem-solving skills through real-world project development and debugging.",
     ],
   },
 ];
